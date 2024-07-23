@@ -9,3 +9,4 @@ Werkzeug==2.3.6
 deep_translator
 elevenlabs
 elevenlabs.client
+pytesseract
